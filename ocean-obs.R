@@ -1,6 +1,8 @@
 # obter (e exibir, opcional) dados em código SHIP e boias
+
 # https://www.ndbc.noaa.gov/ship_obs.php?uom=M&time=12
-# https://www.dataquest.io/blog/web-scraping-in-r-rvest/
+
+# lembrar de setar o pwd no terminal para documents
 
 # Trouxe a ferramenta?
 for (p in c("stringr")){
