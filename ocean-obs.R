@@ -6,3 +6,4 @@
 con <- url('https://www.ndbc.noaa.gov/ship_obs.php?uom=M&time=0')
 
 linhas <- readLines(con)
+
